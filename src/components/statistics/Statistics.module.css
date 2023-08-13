@@ -1,0 +1,9 @@
+.container_statistics {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  font-size: 24px;
+  font-weight: 400;
+}
